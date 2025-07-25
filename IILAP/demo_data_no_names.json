@@ -1,0 +1,1394 @@
+[
+    {
+        "entry": [
+            {
+                "survey1": {
+                    "name": "Participant1",
+                    "familiarity": "Very experienced",
+                    "information_sources": [
+                        "Search engines (e.g., Google, Bing)",
+                        "Online databases (e.g., Google Scholar, academic journals)",
+                        "AI chat interfaces (e.g., ChatGPT, Siri, etc.)",
+                        "Social media platforms (e.g., Facebook, Twitter, Reddit)",
+                        "Online forums or communities (e.g., Quora, StackExchange)",
+                        "Books or printed materials",
+                        "Asking friends, colleagues, or family members"
+                    ],
+                    "ai_experience": "Yes, regularly",
+                    "ai_usage": "Yes",
+                    "ai_frequency": "Daily",
+                    "ai_satisfaction": "Satisfied",
+                    "ai_reason": "Low reliability, and not enough transparency regarding the performance and trustworthyness of the models, especially since new versions are deployed without any warning or assessment of the changes"
+                }
+            },
+           
+            {
+                "chat": [
+                    {
+                        "timestamp": "2025-06-22 14:53:38.799645",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Did James Chadwick discover the neutron ?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:53:54.760868",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who discovered the neutron ?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:54:05.874953",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who discovered the neutron ?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:54:23.612508",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who led the Athenian navy at Salamis ?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Themistocles</span>[1] was a skilled <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2] statesman and general who played a crucial role in the Greek victory at the Battle of Salamis in 480 BCE. He convinced the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2]s to build a <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">strong navy,</span>[3] which proved essential in the fight against the Persians. During the battle, he used clever tactics to lure the larger Persian fleet into the narrow straits of Salamis, where their numbers became a disadvantage. His leadership helped secure one of the most important infantry victories in ancient history.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:55:07.932747",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:55:22.609357",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:55:26.195956",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:55:28.575079",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:55:30.450832",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:56:07.072873",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "which country has the most timezones ?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightcoral;\" title=\"Source: timeanddate.com | Trust: Unknown credibility\">France has the most time zones of any country</span>[3]\u2014<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightgreen;\" title=\"Source: Timeanddate.com | Trust: Medium credibility\">13 in total</span>[1]\u2014because it <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Overseas_France\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">governs numerous overseas territories across the globe, including places in the Caribbean, the Pacific, and the Indian Ocean.</span>[2] These territories span widely different longitudes, which means France\u2019s official time zones cover almost every part of the world. This unique geographic spread gives France more time zones than countries with much larger landmasses, like Russia or the United States.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:56:11.107613",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:56:18.971362",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:56:38.528625",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote *The Master and Margarita*, a novel banned in the Soviet Union for decades? ",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/topic/The-Master-and-Margarita\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">The Master and Margarita was written by Mikhail Bulgakov.</span>[1] The novel was banned in the Soviet Union for many years because it contained satire and criticism of <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film) wiki\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">Soviet society, mixing fantasy, religion, and political commentary.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:56:50.462655",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:56:51.876865",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:57:08.538253",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": " 5. The Peloponnesian War was primarily fought between which two Greek city-states? ",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://education.nationalgeographic.org/resource/peloponnesian-war/\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">The Peloponnesian War was a major conflict in ancient Greece fought between Athens and Sparta along with their respective allies.</span>[1] <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Gutenberg.org\" data-link=\"https://www.gutenberg.org/files/7142/7142-h/7142-h.htm\" style=\"background-color: lightcoral;\" title=\"Source: Gutenberg.org | Trust: Unknown credibility\">It began in 431 BCE</span>[2] due to rising tensions over power, influence, and control in the Greek world. The war lasted nearly 30 years, involving numerous battles on land and sea. Athens, known for its strong navy, initially had the upper hand, but Sparta\u2019s superior land forces eventually turned the tide. The war ended in 504 BCE with Athens\u2019s victory, leading to the decline of Spartan dominance and a shift in Greek political power.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:58:27.286620",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:58:28.800262",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:58:54.351953",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": " 6. Which artist is considered a major figure in the Blue Rider movement (Der Blaue Reiter)? ",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://www.britannica.com/biography/Gustav-Klimt\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">Wassily Kandinsky</span>[1] was a Russian painter and art theorist known as one of the pioneers of abstract art. He <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Youtube.com\" data-link=\"https://www.britannica.com/biography/Wassily-Kandinsky\" style=\"background-color: lightgreen;\" title=\"Source: Youtube.com | Trust: Low credibility\">co-founded the Blue Rider</span>[2] (Der Blaue Reiter) movement in France  around 1911, which focused on expressionism and spiritual themes in art. The group aimed to break away from traditional artistic styles and emphasize color, emotion, and symbolism. Kandinsky believed that art should evoke feelings and inner experiences rather than simply depict the physical world. His work and leadership in the movement greatly influenced modern art throughout the 20th century.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:09.916394",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": " 7. According to John Locke, what are the three natural rights? ",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"britannica.com\" data-link=\"https://www.britannica.com/biography/John-Locke\" style=\"background-color: lightgreen;\" title=\"Source: britannica.com | Trust: Unknown credibility\">According to John Locke,</span>[1] the three natural rights are <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightcoral;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">life, liberty, and property.</span>[3] He believed these rights are inherent and cannot be taken away because they are essential to human existence and freedom. Locke argued that the primary role of people is to protect these rights for its government. If the people fail to do so, the government has the right to jail them. <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightgreen;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">His ideas about natural rights greatly influenced modern democratic thought and the development of constitutional governments.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:14.053960",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:15.170050",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:44.344639",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "1. Which scientist is credited with the discovery of the neutron?\n",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick.</span>[2]\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932,</span>[1] which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:52.663914",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which scientist is credited with the discovery of the neutron?\n",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick.</span>[2]\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932,</span>[1] which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:58.221823",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 14:59:59.385312",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:00:08.295965",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:00:09.407168",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:01:15.519813",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who discovered the  neutron",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:01:21.708964",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who discovered the neutron",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:01:29.097384",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "neutron",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:01:40.167618",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who discovered neutron",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:01:42.745229",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which scientist is credited with the discovery of the neutron? ",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick.</span>[2]\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932,</span>[1] which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:02:15.025014",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who discovered the neutron",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:02:54.789929",
+                        "event_type": "Button Click",
+                        "details": {
+                            "button_name": "Submit summary and finish",
+                            "message": "User clicked on the Submit summary and finish button."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:02:54.790061",
+                        "event_type": "Quiz answers",
+                        "details": {
+                            "Q1": null,
+                            "Q2": "B. Themistocles",
+                            "Q3": "B. France",
+                            "Q4": "B. Mikhail Bulgakov",
+                            "Q5": "B. Athens and Sparta",
+                            "Q6": "B. Wassily Kandinsky",
+                            "Q7": "B. Life, Liberty, Property"
+                        }
+                    }
+                ]
+            },
+            {
+                "survey2": {
+                    "source_misattribution": [
+                        "Q3(most time zones)"
+                    ],
+                    "correct_info_red": [
+                        "Q2(Battle of Salamis)",
+                        "Q7(three natural rights)",
+                        "Q6(Blue Rider)"
+                    ],
+                    "wrong_info_green": [],
+                    "wrong_credibility_score": [
+                        "Q3(most time zones)"
+                    ],
+                    "misinfo_in_unhighlighted": [
+                        "Q7(three natural rights)",
+                        "Q4(The Master and Margarita)"
+                    ],
+                    "ai_use_ease": "Strongly agree",
+                    "ai_use_clarity": "Neutral",
+                    "highlighted_info_use": "Strongly agree",
+                    "highlighted_info_trust": "Strongly agree",
+                    "sources_trust_score": "Disagree",
+                    "sources_reliability": "Agree",
+                    "clarity_helpful": "Strongly disagree",
+                    "clarity_clear": "Strongly agree",
+                    "preference_for_highlighting": "Strongly agree",
+                    "improvements": "a complete AI setting with open questions",
+                    "liked_disliked": "interface is very clear and nice to use",
+                    "thought_process": "More sources, maybe"
+                }
+            }
+        ]
+    },
+    {
+        "entry": [
+            {
+                "survey1": {
+                    "name": "Participant2",
+                    "familiarity": "Moderately experienced",
+                    "information_sources": [
+                        "Search engines (e.g., Google, Bing)",
+                        "Asking friends, colleagues, or family members"
+                    ],
+                    "ai_experience": "No",
+                    "ai_usage": "Yes",
+                    "ai_frequency": "Daily",
+                    "ai_satisfaction": "Neutral",
+                    "ai_reason": "Helps to have a base for an idea but i dont use directly what IA offers to me"
+                }
+            },
+            {
+                "chat": [
+                    {
+                        "timestamp": "2025-06-22 15:18:38.245094",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": " Which scientist is credited with the discovery of the neutron?",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick.</span>[2]\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932,</span>[1] which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:19:05.084764",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "2. Who led the Athenian navy at the Battle of Salamis?\n",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Themistocles</span>[1] was a skilled <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2] statesman and general who played a crucial role in the Greek victory at the Battle of Salamis in 480 BCE. He convinced the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2]s to build a <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">strong navy,</span>[3] which proved essential in the fight against the Persians. During the battle, he used clever tactics to lure the larger Persian fleet into the narrow straits of Salamis, where their numbers became a disadvantage. His leadership helped secure one of the most important infantry victories in ancient history.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:19:19.740450",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "3. Which country has the most time zones (including overseas territories)?\n",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightcoral;\" title=\"Source: timeanddate.com | Trust: Unknown credibility\">France has the most time zones of any country</span>[3]\u2014<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightgreen;\" title=\"Source: Timeanddate.com | Trust: Medium credibility\">13 in total</span>[1]\u2014because it <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Overseas_France\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">governs numerous overseas territories across the globe, including places in the Caribbean, the Pacific, and the Indian Ocean.</span>[2] These territories span widely different longitudes, which means France\u2019s official time zones cover almost every part of the world. This unique geographic spread gives France more time zones than countries with much larger landmasses, like Russia or the United States.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:19:29.795761",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "4. Who wrote *The Master and Margarita*, a novel banned in the Soviet Union for decades?\n",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/topic/The-Master-and-Margarita\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">The Master and Margarita was written by Mikhail Bulgakov.</span>[1] The novel was banned in the Soviet Union for many years because it contained satire and criticism of <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film) wiki\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">Soviet society, mixing fantasy, religion, and political commentary.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:19:39.088402",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "5. The Peloponnesian War was primarily fought between which two Greek city-states?\n",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://education.nationalgeographic.org/resource/peloponnesian-war/\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">The Peloponnesian War was a major conflict in ancient Greece fought between Athens and Sparta along with their respective allies.</span>[1] <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Gutenberg.org\" data-link=\"https://www.gutenberg.org/files/7142/7142-h/7142-h.htm\" style=\"background-color: lightcoral;\" title=\"Source: Gutenberg.org | Trust: Unknown credibility\">It began in 431 BCE</span>[2] due to rising tensions over power, influence, and control in the Greek world. The war lasted nearly 30 years, involving numerous battles on land and sea. Athens, known for its strong navy, initially had the upper hand, but Sparta\u2019s superior land forces eventually turned the tide. The war ended in 504 BCE with Athens\u2019s victory, leading to the decline of Spartan dominance and a shift in Greek political power.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:19:50.465111",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "7. According to John Locke, what are the three natural rights?\n",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"britannica.com\" data-link=\"https://www.britannica.com/biography/John-Locke\" style=\"background-color: lightgreen;\" title=\"Source: britannica.com | Trust: Unknown credibility\">According to John Locke,</span>[1] the three natural rights are <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightcoral;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">life, liberty, and property.</span>[3] He believed these rights are inherent and cannot be taken away because they are essential to human existence and freedom. Locke argued that the primary role of people is to protect these rights for its government. If the people fail to do so, the government has the right to jail them. <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightgreen;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">His ideas about natural rights greatly influenced modern democratic thought and the development of constitutional governments.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:20:31.916980",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "6. Which artist is considered a major figure in the Blue Rider movement (Der Blaue Reiter)?\n",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://www.britannica.com/biography/Gustav-Klimt\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">Wassily Kandinsky</span>[1] was a Russian painter and art theorist known as one of the pioneers of abstract art. He <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Youtube.com\" data-link=\"https://www.britannica.com/biography/Wassily-Kandinsky\" style=\"background-color: lightgreen;\" title=\"Source: Youtube.com | Trust: Low credibility\">co-founded the Blue Rider</span>[2] (Der Blaue Reiter) movement in France  around 1911, which focused on expressionism and spiritual themes in art. The group aimed to break away from traditional artistic styles and emphasize color, emotion, and symbolism. Kandinsky believed that art should evoke feelings and inner experiences rather than simply depict the physical world. His work and leadership in the movement greatly influenced modern art throughout the 20th century.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:20:42.173033",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:20:43.281568",
+                        "event_type": "Source Click",
+                        "details": {
+                            "source_id": "",
+                            "message": "User clicked on source ."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:21:21.770019",
+                        "event_type": "Quiz answers",
+                        "details": {
+                            "Q1": "A. James Chadwick",
+                            "Q2": "B. Themistocles",
+                            "Q3": "B. France",
+                            "Q4": "B. Mikhail Bulgakov",
+                            "Q5": "B. Athens and Sparta",
+                            "Q6": "B. Wassily Kandinsky",
+                            "Q7": "B. Life, Liberty, Property"
+                        }
+                    }
+                ]
+            },
+            {
+                "survey2": {
+                    "source_misattribution": [],
+                    "correct_info_red": [],
+                    "wrong_info_green": [],
+                    "wrong_credibility_score": [],
+                    "misinfo_in_unhighlighted": [],
+                    "ai_use_ease": "Strongly agree",
+                    "ai_use_clarity": "Strongly agree",
+                    "highlighted_info_use": "Strongly agree",
+                    "highlighted_info_trust": "Strongly agree",
+                    "sources_trust_score": "Strongly disagree",
+                    "sources_reliability": "Strongly agree",
+                    "clarity_helpful": "Strongly disagree",
+                    "clarity_clear": "Strongly agree",
+                    "preference_for_highlighting": "Agree",
+                    "improvements": "nothing",
+                    "liked_disliked": "the highlights",
+                    "thought_process": "i dont know"
+                }
+            }
+        ]
+    },
+    {
+        "entry": [
+            {
+                "survey1": {
+                    "name": "Participant3",
+                    "familiarity": "Beginner",
+                    "information_sources": [
+                        "Search engines (e.g., Google, Bing)",
+                        "Online databases (e.g., Google Scholar, academic journals)"
+                    ],
+                    "ai_experience": "Yes, occasionally",
+                    "ai_usage": "Yes",
+                    "ai_frequency": "Daily",
+                    "ai_satisfaction": "Neutral",
+                    "ai_reason": "Because every awnser AI provides I have to check if the infofmation is actually correct as well as finding and vetting the sources"
+                }
+            },
+            {
+                "chat": [
+                    {
+                        "timestamp": "2025-06-22 15:53:47.621481",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who discovered the neutron",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick</span>[2].\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932,</span>[1] which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:54:26.782793",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who led the athenians at thr battle of salamis",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Themistocles</span>[1] was a skilled <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2] statesman and general who played a crucial role in the Greek victory at the Battle of Salamis in 480 BCE. He convinced the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2]s to build a <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">strong navy,</span>[3] which proved essential in the fight against the Persians. During the battle, he used clever tactics to lure the larger Persian fleet into the narrow straits of Salamis, where their numbers became a disadvantage. His leadership helped secure one of the most important infantry victories in ancient history.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:55:08.629183",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "What country has the most timezones",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightcoral;\" title=\"Source: timeanddate.com | Trust: Unknown credibility\">France has the most time zones of any country</span>[3]\u2014<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightgreen;\" title=\"Source: Timeanddate.com | Trust: Medium credibility\">13 in total</span>[1]\u2014because it <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Overseas_France\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">governs numerous overseas territories across the globe, including places in the Caribbean, the Pacific, and the Indian Ocean.</span>[2] These territories span widely different longitudes, which means France\u2019s official time zones cover almost every part of the world. This unique geographic spread gives France more time zones than countries with much larger landmasses, like Russia or the United States.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:55:50.596146",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote mater and margarita",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:55:57.821080",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote master and margarita",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:56:25.247968",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote the master and margarita",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:56:54.239794",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Tell me aboht the peloponesian war",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:56:55.508627",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Tell me aboht the peloponesian war",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:56:57.684768",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Tell me aboht the peloponesian war",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:57:35.919452",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Tell me about the Peloponnesian war",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:57:47.596005",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": " the Peloponnesian war",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:58:04.104514",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "What war did athens and sparta fight",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:58:41.835043",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "What is the blue rider movement",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:58:53.409211",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Gustav klimt",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"artsandculture.google.com\" data-link=\"https://artsandculture.google.com/entity/gustav-klimt/m03869?hl=fr\" style=\"background-color: lightgreen;\" title=\"Source: artsandculture.google.com | Trust: Unknown credibility\">Gustav Klimt was an Austrian symbolist painter best known for his decorative style and works like The Kiss. He was a leading figure of the Vienna Secession movement.</span>[1]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:59:19.247928",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Wassily kadinsky",
+                            "bot_response": "Wassily Kandinsky was a Russian painter and a pioneer of abstract art. He co-founded the Blue Rider movement, emphasizing spiritual and emotional expression through color and form.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:59:22.682241",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Wassily kadinsky",
+                            "bot_response": "Wassily Kandinsky was a Russian painter and a pioneer of abstract art. He co-founded the Blue Rider movement, emphasizing spiritual and emotional expression through color and form.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:59:40.418305",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "John Lock3",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:59:43.611431",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "John Locke",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 15:59:54.803161",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Three natural rights",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:00:11.353705",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "John Locke",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:00:16.657428",
+                        "event_type": "Quiz answers",
+                        "details": {
+                            "Q1": "A. James Chadwick",
+                            "Q2": "B. Themistocles",
+                            "Q3": "B. France",
+                            "Q4": "B. Mikhail Bulgakov",
+                            "Q5": "B. Athens and Sparta",
+                            "Q6": "B. Wassily Kandinsky",
+                            "Q7": "B. Life, Liberty, Property"
+                        }
+                    }
+                ]
+            },
+            {
+                "survey2": {
+                    "source_misattribution": [],
+                    "correct_info_red": [],
+                    "wrong_info_green": [],
+                    "wrong_credibility_score": [],
+                    "misinfo_in_unhighlighted": [],
+                    "ai_use_ease": "Neutral",
+                    "ai_use_clarity": "Agree",
+                    "highlighted_info_use": "Disagree",
+                    "highlighted_info_trust": "Strongly disagree",
+                    "sources_trust_score": "Strongly disagree",
+                    "sources_reliability": "Disagree",
+                    "clarity_helpful": "Strongly disagree",
+                    "clarity_clear": "Neutral",
+                    "preference_for_highlighting": "Strongly disagree",
+                    "improvements": "Different ways of asking the same question that lead to the same awnsers should br accomodated",
+                    "liked_disliked": "Easy interface ",
+                    "thought_process": "I dont know"
+                }
+            }
+        ]
+    },
+    {
+        "entry": [
+            {
+                "survey1": {
+                    "name": "Participant4",
+                    "familiarity": "Moderately experienced",
+                    "information_sources": [
+                        "Search engines (e.g., Google, Bing)",
+                        "AI chat interfaces (e.g., ChatGPT, Siri, etc.)",
+                        "Asking friends, colleagues, or family members",
+                        "Books or printed materials"
+                    ],
+                    "ai_experience": "Yes, occasionally",
+                    "ai_usage": "Yes",
+                    "ai_frequency": "Daily",
+                    "ai_satisfaction": "Satisfied",
+                    "ai_reason": "I use chatGPT for simple things that I can't be bothered to do on my own and it mostly does a decent job."
+                }
+            },
+            {
+                "chat": [
+                    
+                    {
+                        "timestamp": "2025-06-22 16:09:37.495774",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which scientist is credited with the discovery of the neutron?",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick.</span>[2]\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932,</span>[1] which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:10:31.543009",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who led the Athenian navy at the Battle of Salamis?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Themistocles</span>[1] was a skilled <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2] statesman and general who played a crucial role in the Greek victory at the Battle of Salamis in 480 BCE. He convinced the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2]s to build a <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">strong navy,</span>[3] which proved essential in the fight against the Persians. During the battle, he used clever tactics to lure the larger Persian fleet into the narrow straits of Salamis, where their numbers became a disadvantage. His leadership helped secure one of the most important infantry victories in ancient history.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:11:04.277696",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which country has the most time zones (including overseas territories)?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightcoral;\" title=\"Source: timeanddate.com | Trust: Unknown credibility\">France has the most time zones of any country</span>[3]\u2014<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightgreen;\" title=\"Source: Timeanddate.com | Trust: Medium credibility\">13 in total</span>[1]\u2014because it <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Overseas_France\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">governs numerous overseas territories across the globe, including places in the Caribbean, the Pacific, and the Indian Ocean.</span>[2] These territories span widely different longitudes, which means France\u2019s official time zones cover almost every part of the world. This unique geographic spread gives France more time zones than countries with much larger landmasses, like Russia or the United States.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:12:42.026126",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote *The Master and Margarita*, a novel banned in the Soviet Union for decades?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/topic/The-Master-and-Margarita\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">The Master and Margarita was written by Mikhail Bulgakov.</span>[1] The novel was banned in the Soviet Union for many years because it contained satire and criticism of <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film) wiki\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">Soviet society, mixing fantasy, religion, and political commentary.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:14:08.966630",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "The Peloponnesian War was primarily fought between which two Greek city-states?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://education.nationalgeographic.org/resource/peloponnesian-war/\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">The Peloponnesian War was a major conflict in ancient Greece fought between Athens and Sparta along with their respective allies.</span>[1] <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Gutenberg.org\" data-link=\"https://www.gutenberg.org/files/7142/7142-h/7142-h.htm\" style=\"background-color: lightcoral;\" title=\"Source: Gutenberg.org | Trust: Unknown credibility\">It began in 431 BCE</span>[2] due to rising tensions over power, influence, and control in the Greek world. The war lasted nearly 30 years, involving numerous battles on land and sea. Athens, known for its strong navy, initially had the upper hand, but Sparta\u2019s superior land forces eventually turned the tide. The war ended in 504 BCE with Athens\u2019s victory, leading to the decline of Spartan dominance and a shift in Greek political power.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:14:33.234938",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which artist is considered a major figure in the Blue Rider movement (Der Blaue Reiter)?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://www.britannica.com/biography/Gustav-Klimt\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">Wassily Kandinsky</span>[1] was a Russian painter and art theorist known as one of the pioneers of abstract art. He <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Youtube.com\" data-link=\"https://www.britannica.com/biography/Wassily-Kandinsky\" style=\"background-color: lightgreen;\" title=\"Source: Youtube.com | Trust: Low credibility\">co-founded the Blue Rider</span>[2] (Der Blaue Reiter) movement in France  around 1911, which focused on expressionism and spiritual themes in art. The group aimed to break away from traditional artistic styles and emphasize color, emotion, and symbolism. Kandinsky believed that art should evoke feelings and inner experiences rather than simply depict the physical world. His work and leadership in the movement greatly influenced modern art throughout the 20th century.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:14:35.458052",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which artist is considered a major figure in the Blue Rider movement (Der Blaue Reiter)?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://www.britannica.com/biography/Gustav-Klimt\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">Wassily Kandinsky</span>[1] was a Russian painter and art theorist known as one of the pioneers of abstract art. He <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Youtube.com\" data-link=\"https://www.britannica.com/biography/Wassily-Kandinsky\" style=\"background-color: lightgreen;\" title=\"Source: Youtube.com | Trust: Low credibility\">co-founded the Blue Rider</span>[2] (Der Blaue Reiter) movement in France  around 1911, which focused on expressionism and spiritual themes in art. The group aimed to break away from traditional artistic styles and emphasize color, emotion, and symbolism. Kandinsky believed that art should evoke feelings and inner experiences rather than simply depict the physical world. His work and leadership in the movement greatly influenced modern art throughout the 20th century.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:15:15.133603",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "According to John Locke, what are the three natural rights?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"britannica.com\" data-link=\"https://www.britannica.com/biography/John-Locke\" style=\"background-color: lightgreen;\" title=\"Source: britannica.com | Trust: Unknown credibility\">According to John Locke,</span>[1] the three natural rights are <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightcoral;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">life, liberty, and property.</span>[3] He believed these rights are inherent and cannot be taken away because they are essential to human existence and freedom. Locke argued that the primary role of people is to protect these rights for its government. If the people fail to do so, the government has the right to jail them. <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightgreen;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">His ideas about natural rights greatly influenced modern democratic thought and the development of constitutional governments.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:15:33.116687",
+                        "event_type": "Button Click",
+                        "details": {
+                            "button_name": "Submit summary and finish",
+                            "message": "User clicked on the Submit summary and finish button."
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 16:15:33.116761",
+                        "event_type": "Quiz answers",
+                        "details": {
+                            "Q1": "A. James Chadwick",
+                            "Q2": "B. Themistocles",
+                            "Q3": "B. France",
+                            "Q4": "B. Mikhail Bulgakov",
+                            "Q5": "B. Athens and Sparta",
+                            "Q6": "B. Wassily Kandinsky",
+                            "Q7": "B. Life, Liberty, Property"
+                        }
+                    }
+                ]
+            },
+            {
+                "survey2": {
+                    "source_misattribution": [
+                        "Q1(neutron)"
+                    ],
+                    "correct_info_red": [
+                        "Q1(neutron)",
+                        "Q2(Battle of Salamis)",
+                        "Q3(most time zones)",
+                        "Q4(The Master and Margarita)",
+                        "Q5(city-states)",
+                        "Q6(Blue Rider)",
+                        "Q7(three natural rights)"
+                    ],
+                    "wrong_info_green": [
+                        "Q1(neutron)"
+                    ],
+                    "wrong_credibility_score": [],
+                    "misinfo_in_unhighlighted": [],
+                    "ai_use_ease": "Agree",
+                    "ai_use_clarity": "Agree",
+                    "highlighted_info_use": "Agree",
+                    "highlighted_info_trust": "Neutral",
+                    "sources_trust_score": "Neutral",
+                    "sources_reliability": "Disagree",
+                    "clarity_helpful": "Disagree",
+                    "clarity_clear": "Agree",
+                    "preference_for_highlighting": "Agree",
+                    "improvements": "The chat can explain things pretty well, but it could be way better at comparing different sides of an issue.",
+                    "liked_disliked": "It highlights information and gives sources.",
+                    "thought_process": "More Transparency About Uncertainty"
+                }
+            }
+        ]
+    },
+    {
+        "entry": [
+            {
+                "survey1": {
+                    "name": "Participant5",
+                    "familiarity": "Moderately experienced",
+                    "information_sources": [
+                        "Search engines (e.g., Google, Bing)",
+                        "Asking friends, colleagues, or family members",
+                        "Books or printed materials"
+                    ],
+                    "ai_experience": "Yes, occasionally",
+                    "ai_usage": "Yes",
+                    "ai_frequency": "Daily",
+                    "ai_satisfaction": "Satisfied",
+                    "ai_reason": "I don't use chatbots"
+                }
+            },
+                {"chat": [
+                    {
+                        "timestamp": "2025-06-22 17:27:07.039373",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "The Peloponnesian War was primarily fought between which two Greek city-states?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://education.nationalgeographic.org/resource/peloponnesian-war/\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">The Peloponnesian War was a major conflict in ancient Greece fought between Athens and Sparta along with their respective allies.</span>[1] <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Gutenberg.org\" data-link=\"https://www.gutenberg.org/files/7142/7142-h/7142-h.htm\" style=\"background-color: lightcoral;\" title=\"Source: Gutenberg.org | Trust: Unknown credibility\">It began in 431 BCE</span>[2] due to rising tensions over power, influence, and control in the Greek world. The war lasted nearly 30 years, involving numerous battles on land and sea. Athens, known for its strong navy, initially had the upper hand, but Sparta\u2019s superior land forces eventually turned the tide. The war ended in 504 BCE with Athens\u2019s victory, leading to the decline of Spartan dominance and a shift in Greek political power.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:08.453620",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "blue rider movement",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:26.160309",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "tell me about the blue rider movement",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:34.262484",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "figures in the blue rider movement",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:38.386841",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "figures in the blue rider movement?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:45.933740",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who were figures in the blue rider movement?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:49.606658",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who were the figures in the blue rider movement?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:29:59.365071",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "who were the participants in the blue rider movement?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:30:07.963893",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which artist is considered a major figure in the Blue Rider movement (Der Blaue Reiter)?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://www.britannica.com/biography/Gustav-Klimt\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">Wassily Kandinsky</span>[1] was a Russian painter and art theorist known as one of the pioneers of abstract art. He <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Youtube.com\" data-link=\"https://www.britannica.com/biography/Wassily-Kandinsky\" style=\"background-color: lightgreen;\" title=\"Source: Youtube.com | Trust: Low credibility\">co-founded the Blue Rider</span>[2] (Der Blaue Reiter) movement in France  around 1911, which focused on expressionism and spiritual themes in art. The group aimed to break away from traditional artistic styles and emphasize color, emotion, and symbolism. Kandinsky believed that art should evoke feelings and inner experiences rather than simply depict the physical world. His work and leadership in the movement greatly influenced modern art throughout the 20th century.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 17:33:06.116428",
+                        "event_type": "Quiz answers",
+                        "details": {
+                            "Q1": "A. James Chadwick",
+                            "Q2": "B. Themistocles",
+                            "Q3": "B. France",
+                            "Q4": "B. Mikhail Bulgakov",
+                            "Q5": "B. Athens and Sparta",
+                            "Q6": "B. Wassily Kandinsky",
+                            "Q7": "B. Life, Liberty, Property"
+                        }
+                    }
+                ]
+            },
+            {
+                "survey2": {
+                    "source_misattribution": [],
+                    "correct_info_red": [
+                        "Q1(neutron)"
+                    ],
+                    "wrong_info_green": [],
+                    "wrong_credibility_score": [],
+                    "misinfo_in_unhighlighted": [],
+                    "ai_use_ease": "Neutral",
+                    "ai_use_clarity": "Agree",
+                    "highlighted_info_use": "Neutral",
+                    "highlighted_info_trust": "Agree",
+                    "sources_trust_score": "Strongly disagree",
+                    "sources_reliability": "Strongly disagree",
+                    "clarity_helpful": "Strongly disagree",
+                    "clarity_clear": "Disagree",
+                    "preference_for_highlighting": "Disagree",
+                    "improvements": "I don't like how you have to write down a full question to get information. Usually when asked for some fact, I like to read about the topic in general, a paragraph or two, from which I can extract the desired fact. I feel uneasy just getting a fact without the context. And so I don't tend to ask hyper specific questions. I want to just ask about the war, and expect to get who took part in it in the answer.",
+                    "liked_disliked": "Highlighted the most relevant information and had citations very visible and handy.",
+                    "thought_process": "If I had to look at the source before the information, I would be more selective over what information I take seriously. If I am just presented with \"x is the answer\", I take it at face value. But this is how traditional search engines work. So I don't think this is a good study tool."
+                }
+            }
+        ]
+    },
+    {
+        "entry": [
+            {
+                "survey1": {
+                    "name": "Participant6",
+                    "familiarity": "Moderately experienced",
+                    "information_sources": [
+                        "Search engines (e.g., Google, Bing)",
+                        "Online databases (e.g., Google Scholar, academic journals)",
+                        "Asking friends, colleagues, or family members",
+                        "AI chat interfaces (e.g., ChatGPT, Siri, etc.)"
+                    ],
+                    "ai_experience": "Yes, regularly",
+                    "ai_usage": "Yes",
+                    "ai_frequency": "Daily",
+                    "ai_satisfaction": "Satisfied",
+                    "ai_reason": "Most of the times the given results are good if the used prompt is explanatory enough and if the conversation is in english. It is not suitable for all domains though and it works less well in my native language."
+                }
+            },
+            {
+                "chat": [
+                    {
+                        "timestamp": "2025-06-22 18:28:16.584050",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Hey, can you help me with some history questions? First of all, I would like to know which scientist is credited with the discovery of the neutron.",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:28:46.576737",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who discovered the neutron?",
+                            "bot_response": "The scientist credited with the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/James_Chadwick\" style=\"background-color: lightcoral;\" title=\"Source: Wikipedia | Trust: Trusted source\">discovery of the neutron is James Chadwick.</span>[2]\n<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"nobelprize.org\" data-link=\"https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/\" style=\"background-color: lightgreen;\" title=\"Source: nobelprize.org | Trust: Trusted source\">He made this discovery in 1932, which significantly advanced the understanding of atomic structure and led to the development of nuclear physics.</span>[1]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:29:50.347014",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who led the Athenian navy at the battle of Salamis?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Themistocles</span>[1] was a skilled <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2] statesman and general who played a crucial role in the Greek victory at the Battle of Salamis in 480 BCE. He convinced the <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Plataea\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">Spartan</span>[2]s to build a <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/event/Battle-of-Salamis\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">strong navy,</span>[3] which proved essential in the fight against the Persians. During the battle, he used clever tactics to lure the larger Persian fleet into the narrow straits of Salamis, where their numbers became a disadvantage. His leadership helped secure one of the most important infantry victories in ancient history.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:31:05.187945",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which country has the most time zones?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightcoral;\" title=\"Source: timeanddate.com | Trust: Unknown credibility\">France has the most time zones of any country</span>[3]\u2014<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Timeanddate.com\" data-link=\"http://timeanddate.com/time/zone/france\" style=\"background-color: lightgreen;\" title=\"Source: Timeanddate.com | Trust: Medium credibility\">13 in total</span>[1]\u2014because it <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Overseas_France\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">governs numerous overseas territories across the globe, including places in the Caribbean, the Pacific, and the Indian Ocean.</span>[2] These territories span widely different longitudes, which means France\u2019s official time zones cover almost every part of the world. This unique geographic spread gives France more time zones than countries with much larger landmasses, like Russia or the United States.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:31:51.318264",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote the novel \"The Master and Margarita\"?",
+                            "bot_response": "Sorry, I don't have an answer for that, but I can help with topics in history, science, geography, literature, and philosophy! Try asking questions like who discovered the neutron, who led the Athenian navy at Salamis, or which country has the most time zones. You can also explore individual figures like James Chadwick, Themistocles, or Mikhail Bulgakov\u2014check out the suggestions on the right!",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:32:16.002266",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Who wrote *The Master and Margarita*, a novel banned in the Soviet Union for decades?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Britannica.com\" data-link=\"https://www.britannica.com/topic/The-Master-and-Margarita\" style=\"background-color: lightgreen;\" title=\"Source: Britannica.com | Trust: Trusted source\">The Master and Margarita was written by Mikhail Bulgakov.</span>[1] The novel was banned in the Soviet Union for many years because it contained satire and criticism of <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Wikipedia\" data-link=\"https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film) wiki\" style=\"background-color: lightgreen;\" title=\"Source: Wikipedia | Trust: Trusted source\">Soviet society, mixing fantasy, religion, and political commentary.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:32:36.548736",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "The Peloponnesian War was primarily fought between which two Greek city-states?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://education.nationalgeographic.org/resource/peloponnesian-war/\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">The Peloponnesian War was a major conflict in ancient Greece fought between Athens and Sparta along with their respective allies.</span>[1] <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Gutenberg.org\" data-link=\"https://www.gutenberg.org/files/7142/7142-h/7142-h.htm\" style=\"background-color: lightcoral;\" title=\"Source: Gutenberg.org | Trust: Unknown credibility\">It began in 431 BCE</span>[2] due to rising tensions over power, influence, and control in the Greek world. The war lasted nearly 30 years, involving numerous battles on land and sea. Athens, known for its strong navy, initially had the upper hand, but Sparta\u2019s superior land forces eventually turned the tide. The war ended in 504 BCE with Athens\u2019s victory, leading to the decline of Spartan dominance and a shift in Greek political power.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:33:00.177500",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "Which artist is considered a major figure in the Blue Rider movement (Der Blaue Reiter)?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"Nationalgeographic.org\" data-link=\"https://www.britannica.com/biography/Gustav-Klimt\" style=\"background-color: lightgreen;\" title=\"Source: Nationalgeographic.org | Trust: Trusted source\">Wassily Kandinsky</span>[1] was a Russian painter and art theorist known as one of the pioneers of abstract art. He <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"Youtube.com\" data-link=\"https://www.britannica.com/biography/Wassily-Kandinsky\" style=\"background-color: lightgreen;\" title=\"Source: Youtube.com | Trust: Low credibility\">co-founded the Blue Rider</span>[2] (Der Blaue Reiter) movement in France  around 1911, which focused on expressionism and spiritual themes in art. The group aimed to break away from traditional artistic styles and emphasize color, emotion, and symbolism. Kandinsky believed that art should evoke feelings and inner experiences rather than simply depict the physical world. His work and leadership in the movement greatly influenced modern art throughout the 20th century.",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:33:56.856562",
+                        "event_type": "Chat Submission",
+                        "details": {
+                            "user_input": "According to John Locke, what are the three natural rights?",
+                            "bot_response": "<span class=\"source highlighted\" data-source-id=\"1\" data-source-name=\"britannica.com\" data-link=\"https://www.britannica.com/biography/John-Locke\" style=\"background-color: lightgreen;\" title=\"Source: britannica.com | Trust: Unknown credibility\">According to John Locke,</span>[1] the three natural rights are <span class=\"source highlighted\" data-source-id=\"3\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightcoral;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">life, liberty, and property.</span>[3] He believed these rights are inherent and cannot be taken away because they are essential to human existence and freedom. Locke argued that the primary role of people is to protect these rights for its government. If the people fail to do so, the government has the right to jail them. <span class=\"source highlighted\" data-source-id=\"2\" data-source-name=\"iep.utm.edu\" data-link=\"https://iep.utm.edu/locke/\" style=\"background-color: lightgreen;\" title=\"Source: iep.utm.edu | Trust: Trusted source\">His ideas about natural rights greatly influenced modern democratic thought and the development of constitutional governments.</span>[2]",
+                            "highlight_types": [
+                                "Confirmed",
+                                "Potential misinformation"
+                            ]
+                        }
+                    },
+                    {
+                        "timestamp": "2025-06-22 18:34:17.174036",
+                        "event_type": "Quiz answers",
+                        "details": {
+                            "Q1": "A. James Chadwick",
+                            "Q2": "B. Themistocles",
+                            "Q3": "B. France",
+                            "Q4": "B. Mikhail Bulgakov",
+                            "Q5": "B. Athens and Sparta",
+                            "Q6": "B. Wassily Kandinsky",
+                            "Q7": "B. Life, Liberty, Property"
+                        }
+                    }
+                ]
+            },
+           
+            {
+                "survey2": {
+                    "source_misattribution": [],
+                    "correct_info_red": [
+                        "Q7(three natural rights)",
+                        "Q1(neutron)"
+                    ],
+                    "wrong_info_green": [],
+                    "wrong_credibility_score": [
+                        "Q6(Blue Rider)"
+                    ],
+                    "misinfo_in_unhighlighted": [],
+                    "ai_use_ease": "Strongly agree",
+                    "ai_use_clarity": "Agree",
+                    "highlighted_info_use": "Agree",
+                    "helped me critically evaluate": "Disagree",
+                    "noticed errors": "Neutral",
+                    "clicked": "Disagree",
+                    "followup": "Neutral",
+                    "positive experience": "Agree",
+                    "use in school": "Agree",
+                    "improvements": "When I tried discussing further, it didn't know what to say. Also, when I asked the same question using synonyms or different words, it was confused.",
+                    "liked_disliked": "Simple to use, straight-forward, responded to all the questions.",
+                    "thought_process": "I think the highlight feature distracted me from engaging critically with the information, because in the questions for which I didn't already know the answer, I naturally only concentrated in the highlighted parts. Moreover, it would be nice if the chatbot could discuss each question further, or give more details when asked."
+                }
+            }
+        ]
+    }
+]

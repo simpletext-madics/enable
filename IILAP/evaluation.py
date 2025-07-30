@@ -10,7 +10,7 @@ import re
 import math
 from collections.abc import Iterable
 
-with open('demo_data.json', 'r') as f:
+with open('survey_and_chat_data.json', 'r') as f:
     data = json.load(f)
 
 # Prepare lists to store rows for the DataFrames

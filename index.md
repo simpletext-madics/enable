@@ -6,8 +6,8 @@
 
 
 ## Publications
-*
-* Dadić, Petra, et Liana Ermakova. « Vers des interfaces favorisant l’engagement critique des utilisateurs : un prototype utilisant RAG ». Actes de CORIA-TALN-RJCRI-RECITAL 2025. Actes de la 20e Conférence en Recherche d’Information et Applications (CORIA) (Marseille, France), Association pour le Traitement Automatique des Langues, juin 2025, 283 93. [https://talnarchives.atala.org/TALN/TALN-2025/155.pdf](https://talnarchives.atala.org/TALN/TALN-2025/155.pdf).
+* Dadić, Petra, and Liana Ermakova. IILAP: Interactive Information Literacy Assessment Platform. In Linking Theory and Practice of Digital Libraries: 29th International Conference on Theory and Practice of Digital Libraries, TPDL 2025, Tampere, Finland, September 23–26, 2025, Proceedings 
+* Dadić, Petra, and Liana Ermakova. « Vers des interfaces favorisant l’engagement critique des utilisateurs : un prototype utilisant RAG ». Actes de CORIA-TALN-RJCRI-RECITAL 2025. Actes de la 20e Conférence en Recherche d’Information et Applications (CORIA) (Marseille, France), Association pour le Traitement Automatique des Langues, juin 2025, 283 93. [https://talnarchives.atala.org/TALN/TALN-2025/155.pdf](https://talnarchives.atala.org/TALN/TALN-2025/155.pdf).
   
 [CORIA demo RAG interface](CORIA2025/demo_RAG_interface.mp4)
 
